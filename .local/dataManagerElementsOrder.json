@@ -12,11 +12,31 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "fullTextComentariu&Sequence_21",
         "numeUtilizator&Sequence_21",
         "textComentariu&Sequence_21",
         "dt_istoric&Sequence_17",
         "dt_Instagram&Sequence_17",
         "dt&Sequence_17"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../rpa proiect/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtIstoric&Sequence_34",
+        "numeUtilizator&Sequence_28",
+        "textComentariu&Sequence_28",
+        "fullTextComentariu&Sequence_28",
+        "textComentariuFull&Sequence_28",
+        "numeUtilizatorFull&Sequence_28",
+        "dtPostari&Sequence_1",
+        "dt&Sequence_17",
+        "dt_Instagram&Sequence_17",
+        "dt_istoric&Sequence_17"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
